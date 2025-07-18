@@ -10,7 +10,7 @@ export default function Header() {
   return (
     <header>
       <Link className="site-logo" to="/">
-        #Labubu´s
+        #Labubu
       </Link>
       <nav>
         <NavLink
