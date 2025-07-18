@@ -295,6 +295,9 @@ footer {
 
 .labubu-list-filter-buttons {
   display: flex;
+  flex-wrap: wrap;
+  gap: 5px;
+  justify-content: start;
 }
 
 .labubu-detail > img {
@@ -411,8 +414,8 @@ form {
   display: flex;
   justify-content: center;
   align-items: center;
-  gap: 10px;
-  margin-left: 2em;
+  gap: 8px;
+  
 }
 
 form input {
