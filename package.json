@@ -1,6 +1,4 @@
 {
-  "name": "Scrim-s04sl18",
-  "description": "https://scrimba.com/frontend-path-c0j/~0122",
   "scripts": {
     "start": "vite",
     "dev": "vite",
@@ -8,9 +6,13 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "miragejs": "0.1.46",
     "react": "18.2.0",
+    "react-confetti": "^6.4.0",
     "react-dom": "18.2.0",
+    "react-icons": "4.7.1",
     "react-router-dom": "6.4.3",
+    "react-use": "^17.6.0",
     "vite": "latest"
   },
   "devDependencies": {
